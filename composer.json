@@ -1,0 +1,12 @@
+{
+    "name": "felipe/assdads",
+    "require": {
+        "symfony/var-dumper": "^7.2",
+        "league/plates": "^3.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    }
+}
